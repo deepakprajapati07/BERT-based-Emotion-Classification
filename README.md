@@ -5,7 +5,7 @@
 - Achieved an accuracy of 88%
 
 ### Model Huggingface Repo
-- BERT-based-Emotion-Classification-v1:
+- BERT-based-Emotion-Classification-v1: https://huggingface.co/dkp2701/BERT-based-Multiclass-Emotion-Classification
 
 ### Dataset
 - https://www.kaggle.com/datasets/deepakprajapati07/emotion-detection/data
